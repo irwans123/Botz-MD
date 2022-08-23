@@ -5,24 +5,24 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6281331998730'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6281331998730'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6281331998730'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
-global.instagram = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
-global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
+global.nameowner = 'WanZz'
+global.numberowner = '6281331998730' //ganti pakai nomor mu
+global.instagram = '-' //ganti pakai Instagram mu
+global.github = '-' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
+global.sc = '-' //jngn ganti hargai creator
+global.ss = '-' //jngn ganti hargai creator
+global.sss = '-' //jngn ganti hargai creator
 global.snh = 'https://nhentai.net/g/365296/'
-global.yt = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.yt = '-'
+global.dana = '-' //ganti pakai nomor dana mu
+global.pulsa = '-' //ganti pakai nomor pulsa mu
+global.gopay = '-' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
@@ -45,11 +45,11 @@ global.fotonya8 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/4720d8dc811569a29e48f.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
-global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
-global.wm3 = 'ᯤ Dani Offcial'
-global.titlebot = 'ᗪani Offcial ✯✯✯✯✯'
+global.wm = 'xbot'
+global.watermark = 'xbot'
+global.wm2 = 'ᯤ Wanzz'
+global.wm3 = 'ᯤ xbott'
+global.titlebot = 'Xbot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
